@@ -1,0 +1,21 @@
+automatic;/ˌɔːtəˈmætɪk/;adj. 自动的，自发的，无意识的；  n. 自动手枪，自动工具;(of a machine, device, etc.) having controls that work without needing a person to operate them;The automatic production line improves the working efficiency greatly.,自动化生产线大大地提高了工作效率。
+autobiography;/ˌɔːtəbaɪˈɑːɡrəfi/;n. 自传，自传文学;a biography written by the person it is about;This scientist's autobiography inspired me a lot.,霍金的自传给了我很大的启发。
+automaton;/ɔːˈtɑːmətən/;n. 自动机，机器人;a machine that can move by itself;I built an automaton out of spare parts to clean my house for me.,我用备件做了一个机器人为我打扫房间。
+autocracy;/ɔːˈtɑːkrəsi/;n. 独裁政治，专制政治，独裁政府，独裁统治的国家;a country that is ruled by a person or group with total power;In an autocracy, only one person has all the power.,在独裁统治，只有一人拥有所有的权利。
+auto;/ˈɔːtoʊ/;n. 汽车;automobile;These autos are parked in good order.,这些车停的很整齐。
+autocrat;/ˈɔːtəkræt/;n. 独裁者;a person who rules with total power;He was a German autocrat, responsible for starting WWII.,他是德国的独裁者，对二战的爆发负有全责。
+autonomy;/ɔːˈtɑːnəmi/;n. 人身自由；自治；自治权;the ability to act and make decisions without being controlled by anyone else;I'm disabled, but I still have my autonomy.,我虽然身体残疾，但是我还是有人身自由。
+autograph;/ˈɔːtəɡræf/;n. 亲笔签名；  v. 署名;the signature of a famous person;'Can I have your autograph?' asked the fan to the actor.,粉丝向那个演员问道：“可以给我签个名吗？”
+automate;/ˈɔːtəmeɪt/;v. 使自动化，自动操作;to run or operate (something, such as a factory or system) by using machines, computers, etc., instead of people to do the work;We have machines to automate the painting.,我们有机器自动喷漆。
+automaker;/ˈɔːtoʊmeɪkər/;n. 汽车制造者;a company that makes cars;Lots of customers prefer to buy cars from German automakers.,很多顾客都倾向于买德国汽车制造商生产的车。
+automotive;/ˌɔːtəˈmoʊtɪv/;adj. 汽车的，自动的;of, relating to, or concerned with cars and other vehicles;The automotive industry is a major part of this region's economy.,汽车工业是当地经济的主要组成部分。
+automated;/'ɔːtoʊmeɪtɪd/;adj. 机械化的；自动化的;to operate by automation;Our factory's completely automated - all the work is done by machines.,我们工厂实现了完全自动化—所有的步骤都由机器完成。
+automatically;/ˌɔːtəˈmætɪkli/;adv. 自动地，机械地，无意识地;;These lawn sprinklers start automatically, so you don't have to worry about turning them on.,这些草地洒水器是自动的，所以你不需要担心需要去开它们。
+autonomous;/ɔːˈtɑːnəməs/;adj. 自治的；独立自主的；自动的;(of a country, a region or an organization) able to govern itself or control its own affairs;Those are the five autonomous regions of China.,这是中国的五大自治区。
+automobile;/ˈɔːtəməbiːl/;n. 汽车，机动车;a vehicle used for carrying passengers on streets and roads;This green automobile is for sale. Let's take a look.,这辆绿色的车正在降价出售，我们去看看吧。
+autocratic;/ˌɔːtəˈkrætɪk/;adj. 独裁的，专断的;of the nature of or relating to an autocrat;Stalin was an autocratic dictator, and his word was law.,斯大林是一位专制独裁者，他的话就是法律。
+autopay;/'ɔːtəʊpeɪ/;n. 自动转帐;;I use autopay to pay my monthly housing loan, in case I forget to make the payment.,我每个月的房贷都是用自动转账还款的，以免我会忘记还款。
+autobiographical;/ˌɔːtəˌbaɪəˈɡræfɪkl/;adj. 自传的，自传作家的;relating to someone’s life or autobiography;"The life of Han Shan" is an autobiographical account of Han Shan's life, written by himself.,《憨山大师缘》是憨山的生平自传，由他自己撰写。
+autopsy;/ˈɔːtɑːpsi/;n. 验尸，【病理】【特医】剖检;an examination of a dead body to find out the cause of death;This man's death is suspicious - we need to do an autopsy.,这个男人的死很可疑-我们必须验尸。
+automation;/ˌɔːtəˈmeɪʃn/;n. 自动化;the act of implementing the control of equipment with advanced technology; usually involving electronic hardware;The factory improves its productivity with automation.,自动化促使了工厂生产率的提高。
+auto shop;/ˈɔtoʊ/ /ʃɑp/;自动售货店;;The mechanic at the auto shop fixes my car.,车店的机械师为我修车。

@@ -1,0 +1,9 @@
+amplifier;/ˈæmplɪfaɪər/;n. 放大器，扩音器;a device that increases the strength of electric signals so that sounds played through an electronic system are louder;The megaphone contains an amplifier to make sounds louder.,扩音器中有一个放大器来使声音变大。
+example;/ɪɡˈzæmpl/;n. 例子，实例，模范;a person or way of behaving that is seen as a model that should be followed;The math example was completed by Mr. Li.,这道数学例题是李老师完成的。
+amplitude;/ˈæmplɪtuːd/;n. 振幅；广阔；丰富;a measurement that indicates the movement or vibration of something (such as a sound wave or a radio wave);This machine shows the changes in amplitude.,这台机器显示了振幅的变化。
+ample;/ˈæmpl/;adj. 富足的，丰满的，宽敞的;having or providing enough or more than enough of what is needed;We're lucky to have an ample amount of food to eat.,我们非常幸运能有这么多食物来吃。
+trample;/ˈtræmpl/;v. 踩坏（烂），践踏，蔑视；  n. 踩踏，蹂躏;to treat other people's rights, wishes, or feelings as if they are worthless or not important;"Stop! You are trampling on me", the ant screamed.,蚂蚁尖叫着说：“停！你踩到我了！”
+amplify;/ˈæmplɪfaɪ/;v. 放大（声音等）；扩大；增强；详述；进一步阐述;to make (something, such as a musical instrument) louder by increasing the strength of electric signals;You can amplify your voice with a megaphone.,你可以用扩音器来放大声音。
+sample;/ˈsæmpl/;n. 样品；样本；  adj. 样品的；  vi. 抽样检查；  vt. 抽取…的试样;a small amount of something that gives you information about the thing it was taken from;I'll need a sample of your blood to see if you're sick.,我需要你血液样本来确定你是不是生病了。
+for example;;例如，举个例子;as an example;Night markets have many delicious snacks, for example, roasted chestnuts!,夜市上有很多好吃的小吃，举个例子，烤栗子！
+amplification;/ˌæmplɪfɪˈkeɪʃn/;n. 【电子】放大（率），扩大，详述; the amount of increase in signal power or voltage or current expressed as the ratio of output to input;The amplification from this loudspeaker should help me yell even louder.,扩音器的放大功能，能帮助我叫喊得更大声。
