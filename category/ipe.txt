@@ -1,0 +1,14 @@
+pipette;/paɪˈpet/;n. 移液管，吸移管；  v. 用移液器吸取;a narrow tube used in a laboratory for measuring or transferring small amounts of liquids;Use this pipette to get some of the liquid.,用这个移液管可以取得部分液体。
+stripe;/straɪp/;n. 长条，条纹;a long, narrow line of color;The zebra has black and white stripes on its sides.,斑马身上两侧有黑白相间的条纹。
+wipe out;/waɪp/ /aʊt/;消灭;kill in large numbers;Let's wipe out all the bugs with this insecticide.,让我们用这瓶杀虫剂消灭所有的虫子吧。
+ripe;/raɪp/;adj. 熟的，成熟的;fully grown and developed and ready to be eaten;When bananas become ripe, they turn yellow.,香蕉成熟的时候，颜色就会变黄。
+gripe;/ɡraɪp/;n. 控制，发牢骚，肠绞痛；  v. 抱怨，发牢骚;to complain about something;Stop griping about the size of the bone! You should feel grateful for having food to eat!,别再抱怨骨头的大小啦！有的吃你就知足吧！
+archipelago;/ˌɑːrkɪˈpeləɡoʊ/;n. 群岛;a group of islands;I would like to travel to each island in the Malaysian archipelago.,我想游遍马来西亚群岛的每一个岛屿。
+pipe;/paɪp/;n. 管子，导管，烟斗，笛;a long, hollow tube for carrying water, steam, gas, etc.;These pipes are made of plastic, so they are very light.,这些管子是塑料做的，所以它们非常轻。
+bipedalism;/'baɪpedlɪzəm/;n. 二足类;the bodily attribute of being bipedal; having two feet;In nature, bipedalism is restricted to humans and birds.,自然界中的二足类仅限于人类和鸟类。
+wipe;/waɪp/;v. 擦，揩，擦去;to clean or dry (something) by using a towel, your hand, etc.;Please wipe the floors. They are still wet. ,地板还是湿的，请擦一下吧。
+pipeline;/ˈpaɪplaɪn/;n. 管道，渠道；  vt. 用管道输送;a line of connected pipes that are used for carrying liquids and gases over a long distance;This pipeline will carry oil to another country.,管道将把石油运输到另一个国家。
+ripen;/ˈraɪpən/;vi. 成熟；  vt. 使…成熟，使成熟可以食用;to make (something) ripe;The bananas are ripening when color is ranging from green to yellow.,香蕉的颜色正从绿色变去黄色说明香蕉快要熟了。
+recipe;/ˈresəpi/;n. 食谱；诀窍；处方;a set of instructions for making food;The little girl followed the recipe to cook the food.,这个小女孩儿照着菜谱烹饪。
+striped;/straɪpt/;adj. 条纹的;having lines or bands of colour;Mr Horse wears a black and white striped shirt.,马先生穿着一件黑白条纹的T恤。
+stipend;/ˈstaɪpend/;n. 奖学金，固定薪金，定期津贴，养老金;a usually small amount of money that is paid regularly to someone;My company gives me a stipend to cover my expenses while I go to business school.,我的公司给了我奖学金用来支付上商学院的费用。

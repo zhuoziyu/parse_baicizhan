@@ -1,0 +1,75 @@
+formidable;/ˈfɔːrmɪdəbl/;adj. 可怕的；令人畏惧的；难以克服的;terrific or frightful; very difficult to deal with;The formidable ghost came towards me slowly. What a terrible thing!,那个可怕的幽灵缓缓向我走来，多么恐怖的一件事！
+paranormal;/ˌpærəˈnɔːrml/;adj. 超自然的，异常的;very strange and not able to be explained by what scientists know about nature and the world;My paranormal powers allow me to control your mind.,我的超自然能力使我能控制你的思想。
+formula;/ˈfɔːrmjələ/;n. 公式；方程式；配方；方案；方法；配方奶;a general fact or rule expressed in letters and symbols;The boy learned math and science formulas at a young age.,这个男孩儿很小的时候就学会了一些数理公式。
+norm;/nɔːrm/;n. 规范；模范；准则;standards of proper or acceptable behavior;Traffic norms are for your safety.,交通规则是为了你的安全着想。
+transformation;/ˌtrænsfərˈmeɪʃn/;n. 变化，改造，转变;a complete or major change in someone's or something's appearance, form, etc.;She went through a significant transformation in the last 4 years.,她在过去的四年里经历了巨大的变化。
+former;/ˈfɔːrmər/;adj. 前任的，前者的，以前的；  n. 前者;that used to have a particular position or status in the past; existing in the past;These are the faces of former presidents.,这些都是过去的总统的面孔。
+platform;/ˈplætfɔːrm/;n. 站台，平台，讲台;a flat area next to railroad tracks where people wait for a train or subway;She exited the train and walked down the platform.,她下了火车，在站台行走。
+perform;/pərˈfɔːrm/;v. 表演，执行，履行;to entertain an audience by singing, acting, etc.;The singer has to perform every night.,歌手不得不每晚演出。
+uniformly;/ˈjuːnɪfɔːrmli/;adv. 一致地;in a uniform manner;The windows are almost uniformly spaced on the outside of the building.,窗户几乎整齐一致地排列在大厦的外部。
+application form;;申请表;a formula for applying something.;I am filling out an online job application form.,我在填写一个在线工作申请表。
+put on a performance;;演出;put on a show;The musicians put on a wonderful performance.,音乐家们上演了一场绝佳的演出。
+enormously;/ɪˈnɔːrməsli/;adv. 巨大地，庞大地；非常地，在极大程度上;;I enjoyed walking through the field enormously.,
+abnormal;/æbˈnɔːrml/;adj. 反常的；畸形的；  n. 畸形人;different from what is normal or average, especially in a way that causes problems;It's very abnormal for a sheep to be pink!,粉红色的羊太反常了！
+storm;/stɔːrm/;n. 风暴，暴风雨，暴风雪；  vi. 起风暴，大发雷霆，横冲直撞；  vt. 使受到暴风雨的袭击，袭击;an occurrence of bad weather in which there is a lot of rain, snow, etc., and often strong winds;Could he run fast enough to get home before the storm?,他能跑得够快赶在暴风雨来临之前到家么？
+formal;/ˈfɔːrml/;adj. 正式的；正规的；形式上的；礼节上的;(of a style of dress, speech, writing, behaviour, etc.) very correct and suitable for official or important occasions;The man wears formal clothes for his job interview.,这位男士穿了正式的服装参加面试。
+information;/ˌɪnfərˈmeɪʃn/;n. 消息，通知，资料;knowledge that you get about someone or something :facts or details about a subject;The Internet is my main source of information about other countries.,因特网是我获取其他国家信息的主要来源。
+transform;/trænsˈfɔːrm/;v. 将…变形，改变，转换;to change (something) completely and usually in a good way;The ugly worm transformed into a beautiful butterfly.,丑陋的小虫变成了美丽的蝴蝶。
+performer;/pərˈfɔːrmər/;n. 表演者;a person (such as an actor or a musician) who acts, sings, dances, etc., for an audience;The performers in the play were wonderful, simply wonderful!,戏中的表演者们太棒了，就是棒！
+formulae;/'fɔːmjəliː/;n. 公式（formula的复数），规则，客套话; a group of symbols that make a mathematical statement;I know Einstein's formulae, but I don't understand them.,我知道爱因斯坦的公式，但我理解不了。
+informant;/ɪnˈfɔːrmənt/;n. 被调查者，告密者，提供消息者;a person who gives information about his or her culture or language to a researcher;We have a high-level informant who tells us the secrets of our largest competitor.,我们有一个高层告密者，他把我们最大竞争者的秘密告诉给我们。
+reform;/rɪˈfɔːrm/;v. 革新；改革；改良；  n. 革新；改革；改良;to improve (someone or something) by removing or correcting faults, problems, etc.;Great changes have taken place in China since the introduction of the reform and opening policy .,改革开放以来，中国发生了巨大的变化。
+inform;/ɪnˈfɔːrm/;v. 通知，向…报告;to give information to (someone);Please inform us of the news as soon as you know.,请你一有消息就通知我们。
+bioinformatics;/biːəʊɪn'fɔːmətɪks/;n. 生物信息学;an interdisciplinary field that develops and improves upon methods for storing, retrieving, organizing and analyzing biological data;Bioinformatics develops software tools to generate useful biological knowledge.,生物信息学研发软件来生成有用的生物学知识。
+normal;/ˈnɔːrml/;adj. 正常的;typical, usual or ordinary; what you would expect;I was glad when the doctor told me my heart beat was normal.,当医生告诉我心跳正常的时候，我很开心。
+the Norman Conquest;;诺曼征服;;After the Norman Conquest in 1066, the Saxons had to serve their French-speaking lords.,自从1066年的诺曼征服之后，萨克逊人不得不臣服于说法语的统治者。
+informative;/ɪnˈfɔːrmətɪv/;adj. 教育性的，有益的，情报的，见闻广博的;providing information;This map is highly informative. I'll use it to plan my trip.,这个地图非常详尽。我会用它来计划我的旅行。
+be informed about;/bi/ /ɪnˈfɔrmd/ /əˈbaʊt/;熟悉，知晓;know about;Keep me informed about any changes you make to the plans.,随时让我知道你对这个计划做出的改变。
+formality;/fɔːrˈmæləti/;n. 拘泥形式，拘谨，得体，礼节，仪式，一丝不苟，单纯为形式而做的事;something that is required or usual but that has little true meaning or importance;A formality of British culture is to bow when you meet the Queen.,英国传统礼节是见到女王要行鞠躬礼。
+informed;/ɪnˈfɔːrmd/;adj. 见闻广的，了解情况的，消息灵通的;having information;I read the newspaper every morning to stay informed about the world.,每天早上我都会阅读报纸来了解这个世界的消息。
+snowstorm;/ˈsnoʊstɔːrm/;n. 暴风雪;a storm with a large amount of falling snow;He is walking alone in the snowstorm.,他在暴风雪中独自行走。
+transformer;/trænsˈfɔːrmər/;n. 变压器;a device that changes the voltage of an electric current;You can hear a humming sound coming from the transformers at the power plant.,你可以听见发电厂的变压器发出的嗡嗡声。
+normalisation;/ˌnɔːrmələˈzeɪʃn/;n. 正常化，标准化; to make conform to or reduce to a norm or standard;We saw the normalisation of his heartbeat after we gave him medicine.,给他药以后，我们看到他心跳变得正常了（正常化）。
+perform;/pərˈfɔːrm/;v. 执行，履行，表演;to entertain an audience by singing, acting, etc.;The singer has to perform every night.,歌手不得不每晚演出。
+form;/fɔːrm/;n. 形状，表格，形体；  v. 形成;bodily shape;You can walk quicker and easier if your movements have correct form.,如果你的动作正确，你就能走得更快更轻松。
+school uniform;;校服;;They all wore the same school uniform,他们都穿着同样的校服。
+brainstorm;/ˈbreɪnstɔːrm/;n. 集思广益；头脑风暴；  v. 集体讨论;try to solve a problem by thinking intensely about it.;We are having a brainstorm to think about new ideas.,我们进行了一场头脑风暴来想一些新的点子。
+deform;/dɪˈfɔːrm/;v. （使）变形;to change something so that it no longer has its normal or original shape;Those curved mirrors deform the reflection of your face.,这些曲面镜让你脸看上去变形了。
+dormitory;/ˈdɔːrmətɔːri/;n. 集体宿舍，宿舍;a building on a school campus that has rooms where students can live;Our school just constructed a new 400-bed dormitory for the incoming class. ,我们学校刚刚修了一个能容下400张床的宿舍给新生住。
+conform;/kənˈfɔːrm/;vi. 一致，遵照，顺从，符合；  vt. 使一致，使顺从；  adj. 一致的;to behave and think in the same way as most other people in a group or society;Even the donkeys conform to traffic regulations!,就连驴子都遵守交通规则！
+worm;/wɜːrm/;n. 蠕虫；  v. 蠕动;a long, thin animal that has a soft body with no legs or bones and that often lives in the ground;Worms make good fish bait.,蠕虫能做很好的鱼饵。
+dormant;/ˈdɔːrmənt/;adj. 睡眠的，休眠的，静止的，隐伏的;not doing anything at this time :not active but able to become active;Frogs lie dormant underground during winter, covered in fallen leaves.,冬天，青蛙在盖有落叶的地下休眠。
+performance;/pərˈfɔːrməns/;n. 表演；表现；执行；性能;a public show of music, a play, etc.;My favorite part of the performance was the fire-dancing.,演出中我最喜欢是火焰舞。
+landform;/ˈlændfɔːrm/;n. 地形;a natural feature (such as a mountain or valley) of the Earth's surface;The landforms were formed over millions of years.,此地形历经数百万年而形成。
+doormat;/ˈdɔːrmæt/;n. 门前擦鞋垫;;Wipe your shoes on the doormat so you don't bring in too much dirt.,在门垫上擦擦你的鞋，以免带入过多尘土。
+conformity;/kənˈfɔːrməti/;n. 一致，适合，符合，相似;behavior that is the same as the behavior of most other people in a society, group, etc.;We live in an age of conformity.,我们生活在一个相似的年代。
+formation;/fɔːrˈmeɪʃn/;n. 队形，形成，编队，构造，【地】地层;an orderly arrangement or group of people, ships, or airplanes;The birds often fly in a v-shaped formation.,一群鸟经常排成V字形飞过。
+informal;/ɪnˈfɔːrml/;adj. 不拘礼节的，通俗的，非正式的;casual；without formality or ceremony;;Our boss is much more informal after work.,我们的老板在下班后要随意多了。
+reformer;/rɪˈfɔːrmər/;n. 改革家;a person who works to change and improve a society, government, etc.;Martin Luther King, Jr. was the greatest reformer of the Civil Rights Movement.,马丁·路德·金是最伟大的公民权利运动改革者。
+enormity;/ɪˈnɔːrməti/;n. 巨大，暴行，极恶;a shocking, evil, or immoral act;The criminal was sent to jail for his enormity of crimes.,这名罪犯因为罪大恶极被送入监狱。
+formally;/ˈfɔːrməli/;adv. 正式地;in a formal manner;He was dressed formally to attend the dinner party.,他穿着正式去参加晚宴。
+normalization;/ˌnɔːrmələˈzeɪʃn/;n. 正常化；标准化；正规化;the imposition of standards or regulations;The market was very variable early in the week, but now we're seeing signs of normalization.,这个周开始时，市场波动很大。但是现在看到了正常化的迹象。
+anchorman;/ˈæŋkərmæn/;n. （接力赛中）末棒运动员，（汇编各地采访人员的资料并进行综合评价的）新闻节目主持人;a man who reads the news and introduces the reports of other broadcasters on a television news program;The anchorman is broadcasting the news right now.,这个新闻节目主持人正在播报新闻。
+information desk;;n. 问讯处;inquiry desk;Let's go to the information desk to get some help.,我们去问讯处寻求帮助吧。
+normally;/ˈnɔːrməli/;adv. 通常，正常地;;She normally arrives at 10AM, today she was late.,她通常上午十点到达，但今天她迟到了。
+dorm;/dɔːrm/;n. （集体）宿舍;a residence hall providing rooms for individuals or for groups usually without private baths;Look here girls. That's what the boys' dorm looks like.,妞看这儿，这就是男生宿舍的样子。
+thunderstorm;/ˈθʌndərstɔːrm/;n. 雷暴雨，大雷雨;a storm with lightning and thunder;The loud thunderstorm kept me awake all night. ,雷暴雨的巨响让我整晚没睡。
+cuneiform;/ˈkjuːnɪfɔːrm/;adj. 楔形的，楔形文字的，楔状骨的；  n. 楔形文字，楔状骨;relating to or written in a system of writing used in parts of the ancient Middle East;The Sumerians wrote in 'cuneiform'.,苏美尔人使用楔形文字。
+enormous;/ɪˈnɔːrməs/;adj. 极大的；巨大的；庞大的;very great in size or amount;That is an enormous cup of coffee! How big is it?,那是杯超大的咖啡！—它有多大啊？
+formulate;/ˈfɔːrmjuleɪt/;vt. 构想出（计划、方法等）；用公式表示；系统地阐述；制定…的配方;to create, invent, or produce (something) by careful thought and effort;The woman formulates a plan.,这位女士构想出了一个方案。
+outperform;/ˌaʊtpərˈfɔːrm/;v. 优于，超额完成，过度执行;to achieve better results than sb/ sth;Racing horse #7 outperformed the others in the horse race.,7号赛马在比赛中超过了其他赛马。
+nonconformity;/ˌnɑːnkənˈfɔːrmɪti/;n. 不墨守陈规，不符合;failure or refusal to behave the way most people behave :failure or refusal to conform;To prove her nonconformity, the woman wore a ridiculous dress.,为了证明她不墨守成规，那个女人穿了一件很荒谬的衣服。
+stormy;'stɔːrmi;adj. 暴风雨的；激烈的；粗暴的;affected or characterized by storms or commotion;On such a stormy night, you'd better take an umbrella with you.,在这种暴风雨的夜晚，你最好带上一把伞。
+format;/ˈfɔːrmæt/;n. 版式；设计；格式；  vi. 设计一个版式；  vt. 使格式化；设计…的版面;the general arrangement, plan, design, etc. of something;The format of the newspaper is well arranged.,这份报纸排版十分工整。
+deformation;/ˌdiːfɔːrˈmeɪʃn/;n. 变形；形态损伤；形状损毁; alteration of form or shape; also : the product of such alteration;The deformation in this key makes it unusable.,钥匙变形了，无法使用。
+uniform;/ˈjuːnɪfɔːrm/;n. 制服，军服；  adj. 相同的，一律的;a special kind of clothing that is worn by all the members of a group or organization (such as an army or team);The nurses wear white uniforms when they work.,护士们工作的时候穿着白色的制服。
+hormone;/ˈhɔːrmoʊn/;n. 荷尔蒙，激素;a natural substance that is produced in the body and that influences the way the body grows or develops;Jesus Christ! The male sex hormone dominates that woman!,我天！那女人的雄性荷尔蒙太旺盛了吧！
+tax form;;纳税申报表格;;Every citizen should fill in the tax form and pay income tax every year.,每位公民每年都应该填写纳税申请表并上缴个人所得税。
+dormancy;/ˈdɔːrmənsi/;n. 休眠状态;quiet and inactive restfulness;Bears usually take a period of dormancy during the winter.,熊通常在冬天的某段时间处于休眠状态。
+nonconformist;/ˌnɑːnkənˈfɔːrmɪst/;n. 不符合惯例的人；  adj. 不遵照准则的，不墨守成规的;a person who does not behave the way most people behave :someone who does not conform;She dresses like a nonconformist but she's actually very conventional.,她打扮得很出格，但是她实际上是很传统的。
+formative;/ˈfɔːrmətɪv/;adj. 形成的，造型的，格式化的；  n. 构词要素;helping to develop something;Children should be taught to enjoy exercise during their formative years.,当孩子们还在可塑性很强的年纪，我们就应该教会他们享受锻炼。
+formalize;/ˈfɔːrməlaɪz/;v. 使形式化，使程序化;to make (something) formal :to give proper or official form to (something);We formalized his ideas by making pictures for them.,通过为他们制图，我们将他的想法形式化了。
+tapeworm;/ˈteɪpwɜːrm/;n. 绦虫;a long, flat worm that lives in the intestines of people and animals;After the doctors ran some tests, they realized that he has a tapeworm.,医生们进行了一些检测之后，他们意识到他体内有绦虫。
+formulation;/ˌfɔːrmjuˈleɪʃn/;n. 用公式表示，明确地表达，作简洁陈述;the act of creating or preparing something carefully, giving particular attention to the details;The equation is a good formulation of the Theory of Relativity.,这个等式是解释相对论的一个很好的公式。
+uniformity;/ˌjuːnɪˈfɔːrməti/;n. 均匀性，一致，同样;the quality or state of being the same :the quality or state of being uniform or identical;In the army, uniformity among all the soldiers is important.,在军队中，所有人整齐划一是很重要的。
+formulate a response;;制定对策，回应;;We formulated a response to deal with the dead pigs in river.,针对江中的死猪，我们制定了相应的对策。

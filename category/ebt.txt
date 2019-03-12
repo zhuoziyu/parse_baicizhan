@@ -1,0 +1,5 @@
+current debt;;短期债务;;A one year loan can be considered as current debt; it must be paid back within 12 months.,一年期贷款可以被看做短期债务，这些债务必须在一年之内还清。
+in debt;;欠债;run into debt;Being heavily in debt, he was under great pressure.,由于负债累累，他感到压力山大。
+long-term debt;;长期债务;;If you borrow money from the bank for more than one year, it is a long-term debt.,如果你向银行借款超过一年，这就是长期债务。
+debtor;/ˈdetər/;n. 债务人，【会计】借方;a person, organization, government, etc., that owes money;I owe that much? I hate being a debtor!,我欠款那么多？我讨厌做欠债者！
+debt;/det/;n. 债，债务，欠债;an amount of money that you owe to a person, bank, company, etc.;The man is burdened with the housing debt.,这个男人背负着房债。

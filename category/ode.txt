@@ -1,0 +1,45 @@
+modern;/ˈmɑːdərn/;adj. 现代的，时髦的;of or relating to the present time or the recent past :happening, existing, or developing at a time near the present time;Smart phones are common tools of modern life.,在现代生活中，智能手机很普遍。
+erode;/ɪˈroʊd/;vi. 受腐蚀，遭侵蚀；  vt. 腐蚀，侵蚀，损害，削弱;to gradually destroy (something) or to be gradually destroyed by natural forces (such as water, wind, or ice);The rocks have been gradually eroded by the wind over time.,随着时间推移，这些岩石逐渐被风侵蚀了。
+discommode;/ˌdɪskə'moʊd/;v. 使不方便，使为难，使不自由;to cause inconvenience or discomfort to;This traffic discommodes me when I have to get to work.,当我得赶去上班的时候，交通阻碍了我。
+cold-blooded;/ˌkoʊld ˈblʌdɪd/;adj. 冷酷的；冷血的;having cold blood :having a body temperature that is similar to the temperature of the environment;These animals are all cold-blooded.,这些动物都是冷血动物。
+mode;/moʊd/;n. 模式，方式;the state in which a machine does a particular function;The camera has many different modes.,照相机有很多种不同的模式。
+modem;/ˈmoʊdem/;n. 调制解调器;a device that changes the form of electric signals so that information can be sent through telephone lines from one computer to another computer;I bought a new modem to connect my computer to the Internet.,我买了一个新的调制解调器让电脑能联网。
+moderator;/ˈmɑːdəreɪtər/;n. 调解人；仲裁人;a person whose job is to help the two sides in a disagreement to reach an agreement.;The moderator is trying to stop the two angry men from fighting.,这位调解人正在阻止那两位怒汉打起来。
+modernize;/ˈmɑːdərnaɪz/;v. （使）现代化;to make (something) modern and more suited to present styles or needs;Repairing old houses is an important step to modernize our city.,修缮老旧房屋是城市现代化进程中的重要一步。
+be modelled after;/bi//'mɑːdl/ /ˈæftər/;根据……模仿，仿造;;My young son's behaviour is all modelled after Einstein's.,我小儿的行为几乎都是模仿的爱因斯坦。
+cathode;/ˈkæθoʊd/;n. 阴极，负极;the part of an electrical device (such as a battery) where electrons enter;In primary battery, the cathode attracts the negative electrons.,在原电池中，阴极得到电子。
+antipode;/'æntɪˌpoʊd/;n. 恰恰相反的事物（of，to），相对极，对极;direct opposite;The north pole is the antipode of the south pole.,北极是南极的相对极。
+remodel;/ˌriːˈmɑːdl/;vt. 重塑，改造，重建;to change the structure, shape, or appearance of (something);The couple decided to remodel their house.,夫妇俩决定改造他们的屋子。
+outmoded;/ˌaʊtˈmoʊdɪd/;adj. 不再流行的，过时的;no longer useful or acceptable :not modern or current;This old-fashioned AM radio is completely outmoded.,这个老式的调幅收音机完全过时了。
+barcode;/ˈbɑːrkoʊd/;n. 条形码;a pattern of thick and thin lines that is printed on things you buy. It contains information that a computer can read.;Scan the barcode in order to finish the purchase.,扫描这个条形码来完成交易。
+ode;/oʊd/;n. 长诗，颂歌;a poem in which a person expresses a strong feeling of love or respect for someone or something;'Ode to the West Wind' is a famous poem by Shelley.,《西风颂》是雪莱的一首很出名的诗。
+codetermination;/ˌkoʊdɪˌtɜːmɪ'neɪʃən/;n. 共同决策制度;cooperation, especially between labor and management, in policy-making.;Codetermination gives every member the right to participate in the decision-making of a project.,共同决策制度给予每个项目成员参与项目决策的权利。
+anode;/ˈænoʊd/;n. （电）阳极，正极;the part of an electrical device (such as a battery) from which electrons leave;A red wire is often attached to the anode of a battery.,红色电线通常和电池的阳极相连。
+modernization;/ˌmɑːdərnəˈzeɪʃn/;n. 现代化;making modern in appearance or behavior;Big cities are examples of the modernization of human life.,大城市就是人类生活现代化的例子。
+node;/noʊd/;n. 节点，瘤，【数】叉点;a place where lines in a network cross or meet;Regarding teamwork, each person is a node connecting to one another.,团队合作中，每个人都是一个连接他人的结点。
+postcode;/ˈpoʊstkoʊd/;n. （英）邮政编码;a group of numbers and letters that is used especially in the United Kingdom and Australia as part of an address to identify a mail delivery area;Don't forget to write down the postcode before sending the letter!,在寄信前别忘了填邮政编码！
+implode;/ɪmˈploʊd/;vi. 内向爆炸，内向崩溃；  vt. 使爆裂;to collapse inward in a very sudden and violent way;The demolition crew weakened the building until it suddenly imploded.,爆破队削弱了这座大楼的结构，至其最后发生内爆。
+ethical code;;伦理规章;a system of principles governing morality and acceptable conduct;The Three Character Classic conveys an ethical code which has influenced us over many generations.,《三字经》所传达的伦理规章影响了中国一代又一代人。
+hypodermic;/ˌhaɪpəˈdɜːrmɪk/;adj. 皮下注射的;going under the skin;He jabbed me in the arm with a hypodermic needle. Ouch!,他拿皮下注射针刺进了我的手臂。哎呦！
+modesty;/ˈmɑːdəsti/;n. 谦逊，虚心;the quality of being modest;The president's modesty is one of his best qualities. ,这总统的谦逊是他最好的品质之一。
+modest;/ˈmɑːdɪst/;adj. 谦虚的；适度的；端庄的；有节制的;not talking much about your own abilities or possessions;This man is modest before his boss.,这个人在他老板面前表现得很谦虚。
+modernisation;/ˌmɒdənə'zeɪʃən/;n. 现代化;making modern in appearance or behavior;The modernisation of the old city is evident in its new skyscrapers. ,新的摩天大楼就是这座旧都市现代化的例证。
+corrode;/kəˈroʊd/;vi. 受腐蚀；  vt. 腐蚀，侵蚀;to slowly break apart and destroy (metal, an object, etc.) through a chemical process;The metal corroded because you left it out in the rain for too long.,这金属被腐蚀（生锈）了，因为它长时间被雨淋。
+abode;/əˈboʊd/;n. 住处，住所;the place where someone lives;Welcome to my abode. Please make yourself at home.,欢迎来我家，请随意。
+moderation;/ˌmɑːdəˈreɪʃn/;n. 适度，节制，温和，缓和;;Exercise moderation; you will achieve what you want in due time.,练习节制，到时候你将得到你想要的。
+rodeo;/ˈroʊdioʊ/;n. 牧马骑术表演，竞技者；  v. 竞技;an event in which people compete at riding horses and bulls, catching animals with ropes, etc.;These cowboys in the rodeo are showing off their horse riding skills.,牛仔们在竞技表演中展示他们骑马的本领。
+dress code;;着装要求;rules about what clothes people should wear at work.;"You must obey the dress code and wear a suit if you want to enter the club, sir.",“先生，要想进入该会所，你得遵守着装要求并穿西装。”
+zip code;/ˈzɪp koʊd/;n. 邮政区号;a group of numbers that is used in the U.S. as part of an address to identify a mail delivery area (such as a town or a part of a city);You must write a zip code on the envelope before mailing a letter.,寄信前，你必须在信封上写上邮政区号。
+explode;/ɪkˈsploʊd/;v. （使）爆炸，爆发，激增，发怒;cause to burst with a violent release of energy;Watch out! The gas tank is going to explode!,小心！这个煤气罐就要爆炸了！
+rodent;/ˈroʊdnt/;n. 啮齿类动物（如鼠等）;a small animal (such as a mouse, rat, squirrel, or beaver) that has sharp front teeth;These small animals are rodents, and they have sharp front teeth.,这些啮齿动物们都有着锋利的门牙。
+encode;/ɪnˈkoʊd/;v. 把（电文等）译成电码（或密码），编码;to put (a message) into the form of a code so that it can kept secret;Your DNA chromosomes encode a lot of information about who you are.,DNA染色体能破译很多关于你是谁的信息。
+forebode;/foʊr'boʊd/;v. 预示，预兆，预言;make a prediction about; tell in advance;My vision in the crystal ball forebodes a bad future for you.,我在水晶球里看到的预兆显示着你的未来很糟。
+decode;/ˌdiːˈkoʊd/;v. 译解，解码;to change (secret messages, documents, etc.) from a set of letters, numbers, symbols, etc., you cannot understand into words you can understand;Sherlock Holmes managed to decode the 'Dancing Men' cipher by replacing each man by a letter.,夏洛克 福尔摩斯用字母代替小人的方法，成功破译“舞蹈的小人”的密码。
+electrode;/ɪˈlektroʊd/;n. 电极;one of the two points through which electricity flows into or out of a battery or other device;Attach the electrodes to the battery to jump-start the car.,连接电池的电极，以助启汽车引擎。
+bode;/boʊd/;v. 预示，为…的兆头，停留，继续，遭到（bide的过去式）;;I'm afraid all these unlucky omens bode poorly for your future.,恐怕这些不吉利的兆头预示着不好的未来。
+moderate;/ˈmɑːdərət/;adj. 适度的，适中的，温和的，稳健的，中等的;average in size or amount; neither too much nor too little;The circle in the middle is of moderate size.,中间的圆形大小中等。
+episode;/ˈepɪsoʊd/;n. 连续剧的一集，插曲，片断，一段经历;one part of a story that is broadcast on television or radio in several parts;Episode 1 of this TV series is being shown now.,现在正在播放该电视剧的第一集。
+model;/ˈmɑːdl/;n. 模型，模特；  v. 模仿;a usually small copy of something;The girl looks at her model house with a smile.,这个女孩微笑地看着她的房子模型。
+wooden;/ˈwʊdn/;adj. 木制的；呆笨的;made of wood;Finally we found a wooden bridge and crossed the river.,我们终于找到了一座木桥并过了河。
+moderately;/ˈmɑːdərətli/;adv. 适度地，中庸地，有节制地;;I am a smoker, but I smoke moderately. ,我有吸烟，但是我有节制。
+code;/koʊd/;n. 编码，代码，准则，法典;a system of computer programming instructions;Computers run on binary code.,计算机以二进制编码运作。
