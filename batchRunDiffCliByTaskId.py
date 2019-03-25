@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# 批量执行融合差分程序, 使用预下载好的融合结果跑
+# 批量执行融合差分程序
 import os
 import urllib2
 import json
 
-param = "krs_urls=http://10.11.5.34:13100/krs/ krms_urls=http://10.11.5.40:14100/krms/ kds_urls=http://10.11.5.32:23210/kds-data/ is_parallel_computing=true is_diff_by_task_id=false"
+param = "krs_urls=http://10.11.5.34:13100/krs/ krms_urls=http://10.11.5.40:14100/krms/ kds_urls=http://10.11.5.32:23210/kds-data/ is_parallel_computing=true is_diff_by_task_id=true"
 
 def getRefAndTaskId(taskInfoFilePath):
     with open(taskInfoFilePath) as fp:
