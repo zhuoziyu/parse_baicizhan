@@ -37,23 +37,21 @@ def genDiffCliCmd(refTaskId, taskId, work_dir):
     return res
 
 
-def runDiff(path, begin_num, end_num):
+def runDiff(path):
     for dirpath, dirnames, filenames in os.walk(path):
         for file in filenames:
             fullpath = os.path.join(dirpath, file)
             if fullpath.find("taskInfo.txt") != -1:
                 # (refTaskId, taskId) = getRefAndTaskId(fullpath)
                 # print refTaskId, taskId
-                dir_num = int(dirpath[dirpath.rfind('/') + 1:])
-                if dir_num >= begin_num and dir_num <= end_num:
-                    work_dir = dirpath.split('/')[-1]
-                    diffCliCmd = genDiffCliCmd("1", "2", work_dir)
-                    print diffCliCmd
-                    os.chdir(path)
-                    os.system(diffCliCmd)
+                work_dir = dirpath.split('/')[-1]
+                diffCliCmd = genDiffCliCmd("1", "2", work_dir)
+                print diffCliCmd
+                os.chdir(path)
+                os.system(diffCliCmd)
 
 
-def runReport(path, begin_num, end_num, report_path):
+def runReport(path, report_path):
     total_dividers = 0
     total_right_dividers = 0
     total_lost_dividers = 0
@@ -88,9 +86,7 @@ def runReport(path, begin_num, end_num, report_path):
             for file in filenames:
                 fullpath = os.path.join(dirpath, file)
                 if fullpath.find("diff_report") != -1:
-                    dir_num = int(dirpath[dirpath.rfind('/') + 1:])
-                    if dir_num < begin_num or dir_num > end_num:
-                        continue
+                    #
                     with open(fullpath) as fp:
                         lines = fp.readlines()
                         divider_report = lines[1].split(',')
@@ -172,10 +168,8 @@ if __name__ == '__main__':
     path = '/data1/coco/data/shanghai'
     # path = '/Users/weihainan/Documents/automap2.0/shanghai'
     report_path = '%s/total_report.csv' % path
-    begin = 1
-    end = 30
-    runDiff(path, begin, end)
-    runReport(path, begin, end, report_path)
+    runDiff(path)
+    runReport(path, report_path)
     end = datetime.datetime.now()
     total_seconds = (end - start).total_seconds()
     used_hour = int(total_seconds / 3600.0)
