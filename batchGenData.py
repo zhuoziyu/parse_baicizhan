@@ -10,19 +10,21 @@ kds_url = "http://10.11.5.43:23210"
 kds_osis_url = "http://10.11.5.43:13230"
 ref_kds_osis_url = "http://10.11.5.40:13230"
 
+
 def getFusionData(taskId, i, dataType="lane"):
     url = "%s/kds-data/data/taskId/%s/fusion/query" % (kds_url, taskId)
     cmd = "wget %s -O ./%s/%s.json" % (url, str(i), dataType)
     os.system(cmd)
 
-def getShape(taskId, i, isRef, dataType="lane"):
+
+def getShape(taskId, output_path, isRef, dataType="lane"):
     url = "%s/kds-osis/shp/os/task/%s/fusion" % (kds_osis_url, taskId)
     refUrl = "%s/kds-osis/shp/os/task/%s/fusion" % (ref_kds_osis_url, taskId)
-    # response = urllib2.urlopen(url, timeout=10)
+
     if isRef:
-        os.system("wget " + refUrl + " -O ./" + str(i) + "/refTask.zip")
+        os.system("wget %s -O %s/refTask.zip" % (refUrl, output_path))
     else:
-        os.system("wget " + url + " -O ./" + str(i) + "/" + dataType + "Task.zip")
+        os.system("wget %s -O %s/%sTask.zip" % (url, output_path, dataType))
 
 
 def getFusionTaskInfoByProjecId(projectId, frameId2TaskId, fusionTaskId2OtherTaskId):
@@ -50,54 +52,122 @@ def getFusionTaskInfoByProjecId(projectId, frameId2TaskId, fusionTaskId2OtherTas
         fusionTaskId2OtherTaskId[fusionTaskId] = (groundTaskId, poleSignTaskId)
 
 
+# 记录任务框id与组网相关任务id的对应关系
+def saveFrameId2TaskIds(output_path, frameId2RefTaskId, frameId2TaskId, fusionTaskId2OtherTaskId):
+    with open(output_path, "w") as fp:
+        fp.write("frameId,refTaskId,laneTaskId,groundTaskId,poleSignTaskId\n")
+        for frameId in frameId2RefTaskId.keys():
+            refTaskId = frameId2RefTaskId[frameId]
+            laneTaskId = ""
+            if frameId in frameId2TaskId.keys():
+                laneTaskId = frameId2TaskId[frameId]
+            #
+            groundTaskId = ""
+            poleSignTaskId = ""
+            if laneTaskId in fusionTaskId2OtherTaskId.keys():
+                (groundTaskId, poleSignTaskId) = fusionTaskId2OtherTaskId[laneTaskId]
+
+            fp.write("%s,%s,%s,%s,%s\n" % (frameId, refTaskId, laneTaskId, groundTaskId, poleSignTaskId))
+
+
+# 从all_task_info.csv中还原映射关系
+def loadTaskInfos(input_path, frameId2RefTaskId, frameId2TaskId, fusionTaskId2OtherTaskId):
+    with open(input_path) as fp:
+        lines = fp.readlines()
+        for line in lines[1:]:
+            all = line.split(',')
+            frameId = all[0]
+            if frameId == "":
+                continue
+            refTaskId = all[1]
+            laneTaskId = all[2]
+            groundTaskId = all[3]
+            poleSignTaskId = all[4][:-1]
+
+            if refTaskId != "":
+                frameId2RefTaskId[frameId] = refTaskId
+
+            if laneTaskId != "":
+                frameId2TaskId[frameId] = laneTaskId
+
+            if groundTaskId != "" and poleSignTaskId != "":
+                fusionTaskId2OtherTaskId[laneTaskId] = (groundTaskId, poleSignTaskId)
+
+
+def saveMissingFusionTaskId(output_path, misingFusionTaskIdOfFrameId):
+    with open(output_path, "w") as fp:
+        for frameId in misingFusionTaskIdOfFrameId:
+            fp.write(frameId + "\n")
+
+
 if __name__ == '__main__':
     projectId = "1806"
-    path = '/Users/weihainan/Documents/automap2.0/input_shanghai'
-    # path = '/data1/coco/data/input_shanghai'
-    output_path = '/Users/weihainan/Documents/automap2.0/shanghai'
-    # output_path = '/data1/coco/data/shanghai'
+    # path = '/Users/weihainan/Documents/automap2.0/input_shanghai'
+    path = '/data1/coco/data/input_shanghai'
+    # output_path = '/Users/weihainan/Documents/automap2.0/shanghai'
+    output_path = '/data1/coco/data/shanghai'
     if not os.path.exists(output_path):
         os.makedirs(output_path)
 
-    i = 1
-    refFrameId2TaskId = {}
-    refFrameId2DirId = {}
+    # 以frame_id命名文件夹
+    frameId2RefTaskId = {}
     frameId2TaskId = {}
     fusionTaskId2OtherTaskId = {}
-    getFusionTaskInfoByProjecId(projectId, frameId2TaskId, fusionTaskId2OtherTaskId)
+    all_task_info_path = output_path + "/all_task_info.csv"
+    if not os.path.exists(all_task_info_path):
+        for dirpath, dirnames, filenames in os.walk(path):
+            for file in filenames:
+                fullpath = os.path.join(dirpath, file)
+                refTaskId = file.split("_")[0]
+                frameId = file[len(refTaskId) + 1: -5]
+                frameId2RefTaskId[frameId] = refTaskId
+        #
+        getFusionTaskInfoByProjecId(projectId, frameId2TaskId, fusionTaskId2OtherTaskId)
+        saveFrameId2TaskIds(all_task_info_path, frameId2RefTaskId, frameId2TaskId, fusionTaskId2OtherTaskId)
+    else:
+        loadTaskInfos(all_task_info_path, frameId2RefTaskId, frameId2TaskId, fusionTaskId2OtherTaskId)
+
+    #
+    # 没有找到标答任务框对应融合任务的id
+    misingFusionTaskIdOfFrameId = []
     for dirpath, dirnames, filenames in os.walk(path):
         for file in filenames:
             fullpath = os.path.join(dirpath, file)
             refTaskId = file.split("_")[0]
             frameId = file[len(refTaskId) + 1: -5]
-            refFrameId2TaskId[frameId] = refTaskId
-            refFrameId2TaskId[frameId] = i
-            print fullpath
-
+            #
             os.chdir(output_path)
-            os.system("mkdir " + str(i))
-            os.system("cp " + fullpath + " " + str(i) + "/refTask.json")
-            with open(str(i) + "/taskInfo.txt", "w") as fp:
-                fp.write(refTaskId)
-            getShape(refTaskId, i, True)
+            os.system("mkdir " + frameId)
+            os.system("cp " + fullpath + " " + frameId + "/refTask.json")
+            with open(frameId + "/taskInfo.txt", "w") as fp:
+                fp.write("refTaskId:%s\n" % refTaskId)
+                getShape(refTaskId, frameId, True)
 
-            fusionTaskId = ""
-            if frameId in frameId2TaskId.keys():
-                fusionTaskId = frameId2TaskId[frameId]
-            else :
-                print "%s frame missing" % frameId
+                fusionTaskId = ""
+                if frameId in frameId2TaskId.keys():
+                    fusionTaskId = frameId2TaskId[frameId]
+                    fp.write("taskId:%s\n" % fusionTaskId)
+                else:
+                    print "fusionTaskId of %s frame is missing" % frameId
+                    fp.write("taskId:missing\n")
+                    misingFusionTaskIdOfFrameId.append(frameId)
 
-            if fusionTaskId != "":
-                groundTaskId = fusionTaskId2OtherTaskId[fusionTaskId][0]
-                poleSignTaskId = fusionTaskId2OtherTaskId[fusionTaskId][1]
-                with open(str(i) + "/taskInfo.txt", "a+") as fp:
-                    fp.write(str(fusionTaskId)+"\n")
-                    fp.write(str(groundTaskId)+"\n")
-                    fp.write(str(poleSignTaskId)+"\n")
-                getShape(fusionTaskId, i, False, "lane")
-                getShape(groundTaskId, i, False, "ground")
-                getShape(poleSignTaskId, i, False, "poleSign")
-                getFusionData(fusionTaskId, i, "lane")
-                getFusionData(groundTaskId, i, "ground")
-                getFusionData(poleSignTaskId, i, "poleSign")
-            i += 1
+                if fusionTaskId != "":
+                    groundTaskId = fusionTaskId2OtherTaskId[fusionTaskId][0]
+                    poleSignTaskId = fusionTaskId2OtherTaskId[fusionTaskId][1]
+
+                    fp.write("groundTaskId:%s\n" % groundTaskId)
+                    fp.write("poleSignTaskId:%s\n" % poleSignTaskId)
+
+                    getShape(fusionTaskId, frameId, False, "lane")
+                    getShape(groundTaskId, frameId, False, "ground")
+                    getShape(poleSignTaskId, frameId, False, "poleSign")
+                    getFusionData(fusionTaskId, frameId, "lane")
+                    getFusionData(groundTaskId, frameId, "ground")
+                    getFusionData(poleSignTaskId, frameId, "poleSign")
+                else:
+                    fp.write("groundTaskId:missing\n")
+                    fp.write("poleSignTaskId:missing\n")
+
+    misingFusionTaskIdOfFrameId_outputpath = output_path + "/misingFusionTaskIdOfFrameIdInfo.csv"
+    saveMissingFusionTaskId(misingFusionTaskIdOfFrameId_outputpath, misingFusionTaskIdOfFrameId)
