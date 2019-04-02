@@ -15,20 +15,20 @@ def getRefAndTaskId(taskInfoFilePath):
         return (refTaskId, taskId)
 
 def genDiffCliCmd(refTaskId, taskId, work_dir):
-    res = "./autohdmap_multi_merge_diff_cli %s taskId=%s refTaskId=%s work_dir=%s" %(param, taskId, refTaskId, work_dir)
+    res = "./autohdmap_multi_merge_diff_cli %s taskId=%s refTaskId=%s work_dir=%s" %(param, "1", "2", work_dir)
     return res
 
 # path = '/data1/coco/data/shanghai'
-path = '/Users/weihainan/Documents/automap2.0/diff'
+path = '/Users/weihainan/Documents/automap2.0/shanghai'
 for dirpath, dirnames, filenames in os.walk(path):
     for file in filenames:
         fullpath = os.path.join(dirpath, file)
         if fullpath.find("taskInfo.txt")!=-1:
-            (refTaskId, taskId) = getRefAndTaskId(fullpath)
-            print refTaskId, taskId
+            # (refTaskId, taskId) = getRefAndTaskId(fullpath)
+            # print refTaskId, taskId
 
             work_dir = dirpath.split('/')[-1]
-            diffCliCmd = genDiffCliCmd(refTaskId, taskId, work_dir)
+            diffCliCmd = genDiffCliCmd("1", "2", work_dir)
             print diffCliCmd
             os.chdir(path)
             os.system(diffCliCmd)
